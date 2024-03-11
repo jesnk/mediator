@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "테스트 제목입니다!"
+title:  "test title!"
 date:   2024-03-12 00:00:25
 categories: jekyll update
 tags: featured
