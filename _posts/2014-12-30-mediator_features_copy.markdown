@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Copy Mediator Features"
+title:  "Copy Mediator 제목"
 date:   2014-12-30 14:34:25
 categories: mediator feature
 tags: featured
